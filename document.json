@@ -1,0 +1,21 @@
+[{ "schedule_id":"test_esm",
+  "hours":-1,
+  "start_date":"06-12-2018",
+  "end_date":"06-15-2018",
+  "expiration":0,
+  "randomize_schedule":0,
+  "notification_title":"test",
+  "notification_body":"test",
+  "esms":[
+       {"esm": {
+           "esm_type": 1,
+           "esm_title":"test",
+           "esm_instructions":"",
+           "esm_submit":"Submit",
+           "esm_expiration_threshold": 60,
+           "esm_trigger": "esm_basic_test_1",
+           "esm_na": 0
+           }
+       }
+       ]
+}]
