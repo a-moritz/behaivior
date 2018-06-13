@@ -2,12 +2,11 @@
    "schedule_id":"binge_drinking",
    "hours":[-1],
    "randomize":5,
-   "context":["ACTION_AWARE_BATTERY_CHARGING"],
    "start_date":"9-01-2016",
    "expiration":0,
-   "end_date":"12-30-2017",
+   "end_date":"12-30-2019",
    "notification_title":"AWARE ESM",
-   "notification_body":"Did you drink alcohol yesterday?",
+   "notification_body":"test?",
    "interface":0,
    "esms":[
        {"esm": {
