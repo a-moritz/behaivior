@@ -21,7 +21,6 @@
            "esm_expiration_threshold": 60,
            "esm_trigger": "esm_basic_test_4"
            }
-       }
 	}  "esm": {
            "esm_type": 2,
            "esm_title":"Did you have a craving state today?",
