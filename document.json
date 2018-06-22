@@ -22,6 +22,17 @@
            "esm_trigger": "esm_basic_test_4"
            }
        }
+	}  "esm": {
+           "esm_type": 2,
+           "esm_title":"Did you have a craving state today?",
+           "esm_instructions":"If you select \"no\" for this question, skip for the following questions",
+           "esm_radios":["Yes","No"],
+           "esm_submit":"Next",
+           "esm_expiration_threshold": 0,
+           "esm_trigger": "esm_basic_test_2",
+           "esm_na": 0
+           }
+       }
     ]
   }
 ]
